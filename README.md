@@ -1,17 +1,7 @@
-- 👋 Hi, I’m @saosophanna
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-saosophanna/saosophanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 # About me
-  I'm always punctual to school and regular in my studies. I love to play with my friends during break time. My best friend's name is Pooja and we play with dolls every day after school. I participate in all extracurricular activities and sports events at my school and try my best to do well.
+I am kind of a technology nerd. I like to explore to improve my skill. Currently I work as Developer on F&B industry which develop on API intergration with third party system and POS system such as Desktop Ordering, Mobile Ordering. I like to share my knowlege to my colleague and learn from them.
 
-# Educations
+# Educations👨‍🎓
 
 - #### Serey Mongkul High School
 
