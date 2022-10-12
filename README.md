@@ -1,5 +1,5 @@
 # About me
-I am kind of a technology nerd. I like to explore to improve my skill. Currently I work as Developer on F&B industry which develop on API intergration with third party system and POS system such as Desktop Ordering, Mobile Ordering. I like to share my knowlege to my colleague and learn from them.
+I am kind of a technology nerd. I like to explore new technology to improve my skill and make sure it is up to date. I have three experience in developing applications, Currently, I work as a Developer in F&B industry which develops API integration with third-party systems and POS systems such as Desktop Ordering, and Mobile Ordering. I like to share my knowledge with my colleague and learn from them..
 
 # Educations👨‍🎓
 
