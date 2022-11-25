@@ -58,3 +58,12 @@ I am kind of a technology nerd. I like to explore new technology to improve my s
   - Junior Mobile app Developer: Implement new feature and fix bug with Senior Developer.
   - Junior Developer : Implement new feature on POS system and develop microservice for POS and Delivery System.
   - Developer : Developer API intergration with third-party system
+# Contacts
+  
+  [<img src='https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white'/>](https://t.me/saosophanna)
+  [<img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white'/>](https://www.linkedin.com/in/sophanna-sao-915949203)
+  [<img src='https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white'/>](https://www.facebook.com/sao.sophannaa)
+  
+  
+
+
