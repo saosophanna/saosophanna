@@ -1,5 +1,5 @@
 # About me
-I am kind of a technology nerd. I like to explore new technology to improve my skill and make sure it is up to date. I have three experience in developing applications, Currently, I work as a Developer in F&B industry which develops API integration with third-party systems and POS systems such as Desktop Ordering, and Mobile Ordering. I like to share my knowledge with my colleague and learn from them..
+I am kind of a technology nerd. I like to explore new technology to improve my skill and make sure it is up to date. I have three years experience in development applications, Currently, I work as a Developer in Tech company provide solution for F&B industry which develops API integration with third-party systems and POS systems such as Desktop Ordering, and Mobile Ordering. I like to share my knowledge with my colleague and learn from them too 😁.
 
 # Educations👨‍🎓
 
@@ -7,7 +7,7 @@ I am kind of a technology nerd. I like to explore new technology to improve my s
 
   - Year: <b>2014-2016</b>
   - Major: <b>General</b>
-- #### Royal University of Phnom Penh
+- #### [Royal University of Phnom Penh](http://www.rupp.edu.kh)
 
   - Year: <b>2016-2020</b>
   - Major: <b>Computer Science</b>
@@ -55,3 +55,6 @@ I am kind of a technology nerd. I like to explore new technology to improve my s
   - <img src='https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white'/>
 
 - ### Working Experiences
+  - Junior Mobile app Developer: Implement new feature and fix bug with Senior Developer.
+  - Junior Developer : Implement new feature on POS system and develop microservice for POS and Delivery System.
+  - Developer : Developer API intergration with third-party system
