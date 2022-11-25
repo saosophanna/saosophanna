@@ -54,7 +54,7 @@ I am kind of a technology nerd. I like to explore new technology to improve my s
 - ### Clouds
   - <img src='https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white'/>
 
-- ### Working Experiences
+# Working Experiences
   - Junior Mobile app Developer: Implement new feature and fix bug with Senior Developer.
   - Junior Developer : Implement new feature on POS system and develop microservice for POS and Delivery System.
   - Developer : Developer API intergration with third-party system
